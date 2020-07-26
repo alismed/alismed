@@ -26,5 +26,5 @@
 - Salesforce Professional Certificated
 - Take a look at my [blog](https://alismed.github.io/blog/)
 
-From [alismed](https://github.com/alismed)
+From [alismed](https://github.com/alismed/alismed)
 
