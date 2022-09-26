@@ -13,7 +13,7 @@
   <img align="left" alt="Alison's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://trailhead.com/me/alismed">
-  <img align="left" alt="Alison's Trailhead" width="22px" src="https://trailhead.salesforce.com/assets/home/logo-2d7526bf07b5923f0093c2c2ac8b38d8e09001317d4c22d272b6bd80406717f2.svg" />
+  <img align="left" alt="Alison's Trailhead" width="22px" src="https://www.pngrepo.com/png/375202/512/trailhead-alt.png" />
 </a>
 <br />
 
